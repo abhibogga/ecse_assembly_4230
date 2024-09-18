@@ -1,3 +1,6 @@
+#GitHub Access Token: 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
+
+
 #This OBJS is just a variable that we can define as the file we would like to create
 OBJS = 6_strb_ex2_3.o
 
